@@ -1,0 +1,15 @@
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\bin\Debug\net10.0\DemoApp.exe
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\bin\Debug\net10.0\DemoApp.deps.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\bin\Debug\net10.0\DemoApp.runtimeconfig.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\bin\Debug\net10.0\DemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\bin\Debug\net10.0\DemoApp.pdb
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\DemoApp.AssemblyInfo.cs
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\DemoApp.sourcelink.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\DemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\refint\DemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\DemoApp.pdb
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\DemoApp.genruntimeconfig.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-02\DemoApp\obj\Debug\net10.0\ref\DemoApp.dll
