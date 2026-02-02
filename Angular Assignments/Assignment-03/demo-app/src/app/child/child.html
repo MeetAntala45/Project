@@ -1,0 +1,15 @@
+<h2>Child Component</h2>
+
+<p>Received Name: {{ childName }}</p>
+<p>Received Age: {{ childAge }}</p>
+
+<hr>
+
+<input
+  type="text"
+  [(ngModel)]="childMessage"
+  placeholder="Enter message for parent">
+
+<button (click)="sendDataToParent()">
+  Send to Parent
+</button>

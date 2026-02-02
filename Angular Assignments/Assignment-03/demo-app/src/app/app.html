@@ -1,0 +1,18 @@
+<h1>Parent Component</h1>
+
+<p>Name: {{ parentName }}</p>
+<p>Age: {{ parentAge }}</p>
+
+<hr>
+
+<app-child
+  [childName]="parentName"
+  [childAge]="parentAge"
+  (sendMessage)="receiveMessage($event)">
+</app-child>
+
+<hr>
+
+<h3>Message from Child:</h3>
+<p>{{ messageFromChild }}</p>
+<router-outlet></router-outlet>
