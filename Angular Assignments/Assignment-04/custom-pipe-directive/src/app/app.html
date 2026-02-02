@@ -1,0 +1,25 @@
+<h2>Custom Pipe Example</h2>
+<p>Original Email: {{ email }}</p>
+<p>Masked Email: {{ email | emailMask }}</p>
+
+<hr>
+
+<h2>Custom Directive Example</h2>
+
+<form #f="ngForm" (ngSubmit)="f.form.markAllAsTouched()">
+
+  <label appRequiredStar>Email</label>
+  <br>
+
+  <input
+    type="email"
+    name="email2"
+    required
+    ngModel
+    #email2="ngModel">
+
+  <br><br>
+  <button type="submit">Submit</button>
+
+</form>
+
