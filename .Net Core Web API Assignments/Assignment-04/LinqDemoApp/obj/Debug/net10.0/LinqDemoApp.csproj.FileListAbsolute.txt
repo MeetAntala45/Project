@@ -1,0 +1,15 @@
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\bin\Debug\net10.0\LinqDemoApp.exe
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\bin\Debug\net10.0\LinqDemoApp.deps.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\bin\Debug\net10.0\LinqDemoApp.runtimeconfig.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\bin\Debug\net10.0\LinqDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\bin\Debug\net10.0\LinqDemoApp.pdb
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\LinqDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\LinqDemoApp.AssemblyInfoInputs.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\LinqDemoApp.AssemblyInfo.cs
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\LinqDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\LinqDemoApp.sourcelink.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\LinqDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\refint\LinqDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\LinqDemoApp.pdb
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\LinqDemoApp.genruntimeconfig.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\LinqDemoApp\obj\Debug\net10.0\ref\LinqDemoApp.dll

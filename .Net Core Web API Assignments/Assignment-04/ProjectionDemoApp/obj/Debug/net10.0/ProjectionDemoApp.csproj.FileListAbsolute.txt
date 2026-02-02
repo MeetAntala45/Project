@@ -1,0 +1,15 @@
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\bin\Debug\net10.0\ProjectionDemoApp.exe
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\bin\Debug\net10.0\ProjectionDemoApp.deps.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\bin\Debug\net10.0\ProjectionDemoApp.runtimeconfig.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\bin\Debug\net10.0\ProjectionDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\bin\Debug\net10.0\ProjectionDemoApp.pdb
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ProjectionDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ProjectionDemoApp.AssemblyInfoInputs.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ProjectionDemoApp.AssemblyInfo.cs
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ProjectionDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ProjectionDemoApp.sourcelink.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ProjectionDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\refint\ProjectionDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ProjectionDemoApp.pdb
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ProjectionDemoApp.genruntimeconfig.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-04\ProjectionDemoApp\obj\Debug\net10.0\ref\ProjectionDemoApp.dll
