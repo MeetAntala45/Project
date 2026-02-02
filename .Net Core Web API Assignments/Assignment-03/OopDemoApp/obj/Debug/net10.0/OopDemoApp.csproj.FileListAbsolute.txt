@@ -1,0 +1,15 @@
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\bin\Debug\net10.0\OopDemoApp.exe
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\bin\Debug\net10.0\OopDemoApp.deps.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\bin\Debug\net10.0\OopDemoApp.runtimeconfig.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\bin\Debug\net10.0\OopDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\bin\Debug\net10.0\OopDemoApp.pdb
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\OopDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\OopDemoApp.AssemblyInfoInputs.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\OopDemoApp.AssemblyInfo.cs
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\OopDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\OopDemoApp.sourcelink.json
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\OopDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\refint\OopDemoApp.dll
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\OopDemoApp.pdb
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\OopDemoApp.genruntimeconfig.cache
+C:\Users\meeta\Desktop\Project\.Net Core Web API Assignments\Assignment-03\OopDemoApp\obj\Debug\net10.0\ref\OopDemoApp.dll
